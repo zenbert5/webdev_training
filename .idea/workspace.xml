@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48309624-a083-4a7f-b86b-b146825d01be" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/davies.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/davies_burgers.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/reset.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dis_n_pos.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/display_n_pos.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pj_broadway.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/proj_broadway.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,51 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="conserv_ex_index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conserv_ex_index.html">
+      <file leaf-file-name="proj_broadway.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proj_broadway.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="882">
-              <caret line="49" column="7" lean-forward="false" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="674">
+              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding>
+                <element signature="e#1686#1692#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conv_style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conv_style.css">
+      <file leaf-file-name="pj_broadway.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pj_broadway.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="davies_burgers.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/davies_burgers.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reset.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reset.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="846">
-              <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="davies.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/davies.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2304">
-              <caret line="128" column="1" lean-forward="false" selection-start-line="128" selection-start-column="1" selection-end-line="128" selection-end-column="1" />
+            <state relative-caret-position="1782">
+              <caret line="99" column="18" lean-forward="true" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -90,6 +63,10 @@
         <option value="$PROJECT_DIR$/reset.css" />
         <option value="$PROJECT_DIR$/davies.css" />
         <option value="$PROJECT_DIR$/davies_burgers.html" />
+        <option value="$PROJECT_DIR$/display_n_pos.html" />
+        <option value="$PROJECT_DIR$/dis_n_pos.css" />
+        <option value="$PROJECT_DIR$/proj_broadway.html" />
+        <option value="$PROJECT_DIR$/pj_broadway.css" />
       </list>
     </option>
   </component>
@@ -100,8 +77,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2706" />
-    <option name="y" value="70" />
+    <option name="x" value="2714" />
+    <option name="y" value="40" />
     <option name="width" value="2263" />
     <option name="height" value="1438" />
   </component>
@@ -144,11 +121,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.davies_burgers.html">
+  <component name="RunManager" selected="JavaScript Debug.proj_broadway.html">
     <configuration name="conserv_ex_index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev_training/conserv_ex_index.html" />
     <configuration name="davies_burgers.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev_training/davies_burgers.html" />
-    <configuration name="sample2_index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev_training/sample2_index.html" />
-    <configuration name="sample3_index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev_training/sample3_index.html" />
+    <configuration name="display_n_pos.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev_training/display_n_pos.html" />
+    <configuration name="proj_broadway.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev_training/proj_broadway.html" />
     <configuration name="capstone_musclehub" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,19 +146,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.sample2_index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.sample3_index.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.conserv_ex_index.html" />
-      <item index="3" class="java.lang.String" itemvalue="Python.capstone_musclehub" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.davies_burgers.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.conserv_ex_index.html" />
+      <item index="1" class="java.lang.String" itemvalue="Python.capstone_musclehub" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.davies_burgers.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.display_n_pos.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.proj_broadway.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.davies_burgers.html" />
-        <item index="1" class="java.lang.String" itemvalue="Python.capstone_musclehub" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.conserv_ex_index.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.sample3_index.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sample2_index.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.proj_broadway.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.display_n_pos.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.davies_burgers.html" />
+        <item index="3" class="java.lang.String" itemvalue="Python.capstone_musclehub" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.conserv_ex_index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +179,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2706" y="70" width="2263" height="1438" extended-state="0" />
+    <frame x="2714" y="40" width="2263" height="1438" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -216,7 +193,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39970392" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -373,6 +350,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/davies_burgers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="70" column="7" lean-forward="true" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+          <folding>
+            <element signature="n#li#3;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/davies.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2304">
@@ -381,11 +368,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/davies_burgers.html">
+    <entry file="file://$PROJECT_DIR$/dis_n_pos.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="13">
+          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/display_n_pos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="46" column="24" lean-forward="true" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pj_broadway.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="99" column="18" lean-forward="true" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj_broadway.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding>
+            <element signature="e#1686#1692#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
