@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48309624-a083-4a7f-b86b-b146825d01be" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/dis_n_pos.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/display_n_pos.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pj_broadway.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/proj_broadway.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aofie_typography.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/paint_store.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/reset2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/css/reset.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,23 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="proj_broadway.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/proj_broadway.html">
+      <file leaf-file-name="aofie_typography.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aofie_typography.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-              <folding>
-                <element signature="e#1686#1692#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pj_broadway.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pj_broadway.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1782">
-              <caret line="99" column="18" lean-forward="true" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
+            <state relative-caret-position="198">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -67,6 +55,12 @@
         <option value="$PROJECT_DIR$/dis_n_pos.css" />
         <option value="$PROJECT_DIR$/proj_broadway.html" />
         <option value="$PROJECT_DIR$/pj_broadway.css" />
+        <option value="$PROJECT_DIR$/paint_store_html.html" />
+        <option value="$PROJECT_DIR$/paint_store.css" />
+        <option value="$PROJECT_DIR$/reset2.css" />
+        <option value="$PROJECT_DIR$/paint_store.html" />
+        <option value="$PROJECT_DIR$/style2.css" />
+        <option value="$PROJECT_DIR$/aofie_typography.html" />
       </list>
     </option>
   </component>
@@ -77,8 +71,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2714" />
-    <option name="y" value="40" />
+    <option name="x" value="2708" />
+    <option name="y" value="38" />
     <option name="width" value="2263" />
     <option name="height" value="1438" />
   </component>
@@ -109,6 +103,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/css" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -121,44 +120,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.proj_broadway.html">
-    <configuration name="conserv_ex_index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev_training/conserv_ex_index.html" />
+  <component name="RunManager" selected="JavaScript Debug.aofie_typography.html">
+    <configuration name="aofie_typography.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev_training/aofie_typography.html" />
     <configuration name="davies_burgers.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev_training/davies_burgers.html" />
     <configuration name="display_n_pos.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev_training/display_n_pos.html" />
+    <configuration name="paint_store.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev_training/paint_store.html" />
     <configuration name="proj_broadway.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev_training/proj_broadway.html" />
-    <configuration name="capstone_musclehub" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../capstone_musclehub/musclehub_project" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="webdev_training" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../capstone_musclehub/musclehub_project/capstone_musclehub.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.conserv_ex_index.html" />
-      <item index="1" class="java.lang.String" itemvalue="Python.capstone_musclehub" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.davies_burgers.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.display_n_pos.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.proj_broadway.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.davies_burgers.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.display_n_pos.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.proj_broadway.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.paint_store.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.aofie_typography.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.proj_broadway.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.display_n_pos.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.davies_burgers.html" />
-        <item index="3" class="java.lang.String" itemvalue="Python.capstone_musclehub" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.conserv_ex_index.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.aofie_typography.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.paint_store.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.proj_broadway.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.display_n_pos.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.davies_burgers.html" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +160,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2714" y="40" width="2263" height="1438" extended-state="0" />
+    <frame x="2708" y="38" width="2263" height="1438" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -397,8 +378,68 @@
         <state relative-caret-position="674">
           <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding>
-            <element signature="e#1686#1692#0" expanded="true" />
+            <element signature="e#1686#1692#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8910">
+          <caret line="495" column="0" lean-forward="false" selection-start-line="495" selection-start-column="0" selection-end-line="495" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reset2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paint_store.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="e#1967#1974#0" expanded="false" />
+            <element signature="e#3416#3423#0" expanded="false" />
+            <element signature="e#4867#4874#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="283" column="1" lean-forward="false" selection-start-line="283" selection-start-column="1" selection-end-line="283" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aofie_typography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
