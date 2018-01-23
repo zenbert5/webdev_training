@@ -81,7 +81,7 @@ html {
   align-items: center;
   height: 4.44rem;
   padding: 0 12%;
-  background-color: white;
+  background-color: rgba(154, 214, 254, 0.6);
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.05);
   font-family: Verdana, sans-serif;
   font-size: .77rem;
@@ -90,7 +90,8 @@ html {
 
 .header .logo {
   flex-grow: 1;
-  color: #ffb78c;
+  font-size: 1.2em;
+  color: #1455b6;
 }
 
 .header li {
